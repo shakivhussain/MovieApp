@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable-v24/background_favorite.xml" value="0.1125" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable-v24/background_search.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/bg_overlay_detial.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/bg_rectange.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_back.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_clear.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_collection.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_film.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_icon_film.xml" value="0.1125" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_imdb.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_imdb_24.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_round_search.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_search.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/ic_toprated.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/img_loading_large.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/img_oops_interne.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/drawable/img_search_man.xml" value="0.2234375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/font/alfa_slab_one.xml" value="0.2375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/font/amethysta.xml" value="0.2375" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/layout/activity_search.xml" value="0.22" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/layout/card_movie.xml" value="0.75" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/layout/layout_progress.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/layout/list_item.xml" value="0.33" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/layout/news_item.xml" value="0.33" />
+        <entry key="..\:/Users/Shakib/AndroidStudioProjects/HPractice/MovieApp/app/src/main/res/layout/search_list_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
